@@ -1,0 +1,58 @@
+Ordena tu rompecabezas
+
+El gatito hace todo lo que le decimos, pero solo hace una cosa. Si queremos que 
+haga varias cosas, podemos poner muchas piezas e ir dando donde doble click sobre 
+cada una de las piezas, en el orden que mas nos guste. 
+
+Si se llena la zona gris del rompecabezas, podemos borrar lo que queramos usando 
+las tijeras. Damos click sobre las tijeras que hay encima del getito, y la flechita que 
+mueve el mouse (que se le llama cursor) se convertirá en unas tijeras; poniendo esas 
+tijeras sobre una de las piezas de rompecabezas y dando click, la pieza desaparecerá
+de la sección gris del rompecabezas. 
+
+La pieza que vamos a recortar tendrá un recuadro rojo alrededor, como en la imagen de 
+arriba. 
+
+
+Pero como sabemos armar rompecabezas, podemos hacer un rompecabezas completo y que el 
+gatito haga una cosa detras de la otra, comenzando desde la pieza de mas arriba, 
+continuando con las de mas abajo.
+
+<begin mouse box>
+Prueba este ejemplo: en el rompecabezas de la derecha, primero no dirá nada (borrará 
+lo que estuviera diciendo el gatito), luego se moverá 10 pasos y luego el gatito nos 
+dirá "¡Hola amiguitos!".
+<end mouse box>
+
+<begin comic globe>
+Te puedo asegurar que soy un gatito muy movido, puedo moverme el número de pasos que 
+tú me indiques. Intenta moverme 20 pasos seguidos.
+<end comic globe>
+
+
+<begin question box>
+￼¿Cuántos pasos tiene la casa del gatito? Lleva al gatito hasta el borde izquierdo, 
+y prueba con diferentes valores, hasta que de una sola vez, llegue el gatito a la 
+derecha. O cuenta cuántas veces tiene que avanzar 10 pasos el gatito y multiplica. 
+Escribe aquí cuantos pasos son necesarios. 
+
+Respuesta: 
+<end question box>
+
+
+Puedes poner todas las piezas de rompecabezas que quieras. Además, puedes meter 
+piezas entre otras que ya estuvieran juntas. También puedes recortar piezas con las 
+tijeras, pero esas piezas desaparecerán y la que hay debajo aparecerá pegada a la 
+superior (puedes simplemente borrar piezas intermedias, sin borrar toda la sección).
+
+<begin question box>
+
+El gatito es muy juguetón, y a veces se esconde, incluso puede moverse escondido. 
+Has un rompecabezas en el que el gatito primero se esconda, luego se mueva 20 pasos, 
+luego se muestre y se vuelva a mover otros 20 pasos. 
+
+¿De qué color son las piezas que sirven para esconder y mostrar el gatito?:
+
+Respuesta: 
+
+<end question box>
