@@ -1,0 +1,17 @@
+El gato y el ratón
+
+Vamos a enseñar al gatito a moverse en la pantalla de la computadora. El gatito es muy 
+obediente y hace todo lo que le digamos. Le podemos pedir cosas usando el mouse de la 
+computadora, porque es su amiguito, o usando un control remoto, como la televisión.
+
+Primero, vamos a ver cómo hacemos que el mouse mueva el gato.
+
+<begin comic globe>
+Coloca la flechita sobre mi cuerpo, da click con el botón izquierdo, y mueve el mouse. 
+Verás una sombra debajo del cuerpo de mi cuerpo y se moverá junto con la flechita.
+<end comic globe>
+
+<begin box with mouse> 
+Mueva el gatito a las cuatro esquinas. Primero arriba a la izquierda, luego arriba 
+a la derecha, abajo izquierda, abajo derecha. Al final, déjalo en medio de su casita.
+<end box with mouse>
