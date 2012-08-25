@@ -1,0 +1,19 @@
+Guárdalo en su sitio
+
+Ya que tienes tu propia mascota, te interesará guardarla en algún sitio, para que 
+cuando tú no estes se quede tranquilita, y luego puedas seguir por donde estabas. 
+Pues bien, todo lo que se hace aquí se puede guardar, con el botoncito que pone
+“Guardar”. 
+
+Como siempre, para presionar el botón tienes que colocar la flechita del mouse 
+sobre ella, y dar click con el botón izquierdo del mouse. 
+
+Cuando lo hagas, te saldrá algo así como lo que aparece aquí, justamente abajo. 
+Tendrás que ir donde pone "Nuevo nombre de archivo" y ponerle el nombre que tu desees,
+por ejemplo, Migatito, o como tú te llames. Luego, como siempre, da click en el 
+botón de "Aceptar" para volver a jugar con el gatito. 
+
+<begin remember box>
+Guarda tu gatito, y pon el nombre que has elegido aquí abajo para que sea más fácil
+recordarlo. Nombre del gatito:  
+<end remember box>￼
