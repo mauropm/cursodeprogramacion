@@ -1,0 +1,35 @@
+Armemos un rompecabezas
+
+En la casa del gatito hay muchas cosas. Hay piezas de rompecabezas de muchos colores. 
+Podemos seleccionar las piezas del rompecabezas con el mouse, y colocarlas en la casilla 
+gris de en medio. Podemos poner todas las piezas que deseemos, pero solo algunas encajaran
+correctamente. 
+
+Para seleccionar las piezas se hace igual que con el gatito: se pone la flechita del mouse sobre ellas, das click en el botón izquierdo y las mueves al cuadrado gris central, a la izquierda del gatito. 
+
+
+<begin mouse box>
+Selecciona varias piezas de la izquierda, y trata de hacer que embonen unas con otras. Cuando 
+estén a punto de embonar, aparecerá una línea blanca entre ellas, en ese momento suelta el 
+botón izquiero del mouse. 
+<end mouse box>
+
+<begin comic globe>
+¡ Uy ! ¿Te equivocaste? ¿Quieres cambiar tu rompecabezas? Recuerda que deberás empezar moviendo 
+la última pieza que colocaste: La que está más abajo.
+<end comic globe>
+
+No solo hay piezas de color azul, sino también verdes y rosas. Si presionas sobre alguno de 
+los ovalos de arriba a la izquierda, podrás ver todas las piezas diferentes del rompezabezas disponibles. Las mas bonitas y difíciles son las naranjas, que son unas piezas tan complicadas 
+que pueden meterse piezas dentro de ellas.
+
+¿Ves? Si presionas sobre el icono del lápiz, que tiene una rayita verde oscura a la izquierda, 
+te aparecen todas las piezas del mismo color.
+
+Prueba a dar click en cada uno de los 8 tipos de piezas de rompecabezas, para ver qué piezas 
+son las que aparecen y qué es lo que dicen; elige alguna de ellas y colocala a la derecha, 
+en la zona gris de los rompecabezas. 
+
+<begin mouse box> 
+Has el rompecabezas que aparece aquí a la derecha.
+<end mouse box>
