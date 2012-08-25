@@ -1,0 +1,33 @@
+Mi gatito favorito
+
+Cada cual tiene derecho a su propio animalito. Cuando nacen, todos son iguales, 
+pero podemos cambiarlos y ponerlos a nuestro gusto. Lo podemos hacer tranquilamente,
+usando un botón de la pantalla que no habíamos usado hasta ahora, el del pincel 
+y la estrella. 
+
+Ahora aparece una pantalla para dibujar. Podemos dibujar nuestro propio animalito, 
+pero es mas fácil si pintamos otro que ya existe. Si le damos al botón “Importar”, 
+podremos elegir animales, monstruos, personas e incluso ¡coches y aviones!
+
+Nos aparecerá entonces en la pantalla lo que vemos a la derecha, pudiendo cambiar 
+el gatito todo lo que queramos. Dejando el botón izquierdo presionado, pintaremos de 
+negro por donde pasemos la flechita del mouse, pero podemos hacer muchas mas cosas. 
+Por ejemplo, presionando sobre los colores de abajo podemos cambiar el color, o 
+pulsando sobre la goma de borrar, hacemos que la flechita del mouse borre en vez de 
+pintar. 
+
+También se pueden dibujar círculos o cuadrados, y hacer que el pincel sea más grande 
+o más pequeño.
+
+<begin comic globe>
+Prueba a hacer diferentes cosas sobre el dibujo, y no te preocupes si te equivocas. 
+Da click sobre el botón llamado "Deshacer" y desharas lo último que hayas hecho. Para
+terminar, da click sobre "Aceptar" y volverás a la pantalla normal y corriente. 
+<end comic globe> 
+
+<begin question box>
+¿Cómo te gusta más tu gatito? Píntale bigotes, o cambiale el color, o has lo que 
+quieras con él. Escribe aquí debajo como te ha quedado, y por qué lo has pintado así.
+
+Respuesta: 
+<end question box>
