@@ -1,0 +1,46 @@
+El rompecabezas mágico
+
+
+Las piezas del rompecabezas son en realidad mágicas, porque tienen un hilo invisible
+que las une al gatito, así que cada pieza sirve para que el gatito haga algo. 
+
+Cuando pones una pieza en la zona gris central y das click sobre ella con el botón
+izquiero del mouse, el gatito inmediatamente hará lo que indique la pieza del 
+rompecabezas.
+
+<begin mouse box>
+Pon la pieza azul que se ve primero, la que tiene escrito mover 10 pasos, en la zona gris
+de en medio. Situa la flechita del mouse sobre ella y da doble click sobre ella con el 
+botón izquierdo del mouse. 
+<end mouse box>
+
+<begin comic globe>
+Puedes poner todas las piezas que quieras sobre la sección gris del centro, pero si 
+están separadas, yo solo haré lo que indique la pieza sobre la que des doble click con el 
+mouse. Si las piezas sobre la sección gris del centro estan unidas, cuando des doble click 
+con el botón izquierdo del mouse, hare todas las acciones que ahi indiques. Soy un gatito 
+obediente y ordenado.
+<end comic globe>
+
+
+Además, puedes cambiar algunas piezas del rompecabezas para que hagan diferentes cosas, 
+todas las que tienen números o letras escritas sobre blanco, pueden ser modificadas y poner 
+lo que tu desees. 
+
+Por ejemplo, entre las piezas moradas hay una que dice “Decir Hola!”. Pues bien, mueve esa 
+pieza a la zona de puzzles para que funcione, pon la flechita del mouse sobre la letra H, 
+pulsa una vez y podrás escribir lo que quieras. Escribe “¡Hola Amiguitos!”.
+
+Para borrar lo que hay tendrás que usar la tecla que está al lado del signo de admiración 
+e interrogación, arriba a la derecha en el teclado, una que tiene un signo así: ←
+
+<begin question box>
+Busca la pieza de rompecabezas que dice "Tocar Sonido", seleccionala con la flechita 
+del mouse, presiona el botón izquiero del mouse y sin soltarlo, llevala a la sección gris 
+de en medio, soltandola ahí. 
+
+Una vez en esa posición, posiciona la flechita del mouse sobre ella y da doble click. 
+¿Cuántos sonidos hay? ¿Cómo suenan? ¿Qué otras piezas interesantes has encontrado? 
+
+Respuesta: 
+<end question box>
